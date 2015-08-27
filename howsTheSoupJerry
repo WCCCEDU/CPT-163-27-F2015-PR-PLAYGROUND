@@ -1,4 +1,4 @@
 package howsTheSoupJerry
-public class HelloWorldAgain {
+public class noSoup {
     public static void main(String[] args) {
         System.out.println("No soup for you!!!");
