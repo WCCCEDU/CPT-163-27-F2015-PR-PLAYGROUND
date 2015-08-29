@@ -8,6 +8,3 @@ Clone your fork with GithubDesktop
 Make some changes
 
 Create some commits and use the new PR button in GithubDesktop to open a PR :)
-
-"Navigating GitHub has been challenging, but I think I'm starting to get the hang of it"
-- Samantha Shurie
