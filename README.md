@@ -5,7 +5,7 @@
 
 Clone your fork with GithubDesktop
 
-Make some changes - Hi!! I am a change.
+Make some changes - Hi!! I am a change. Another change, I am.
 
 Create some commits and use the new PR button in GithubDesktop to open a PR :)
 
